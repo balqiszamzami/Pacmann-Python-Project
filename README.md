@@ -3,17 +3,17 @@
 ## Latar Belakang Problems
 Dalam menjalankan bisnisnya, Andi mengalami masalah dalam proses pembayaran di toko offlinenya. Karena keterbatasan pegawai yang ada, antrian pembayaran seringkali cukup panjang, sehingga membuat pelanggan merasa tidak nyaman dan memakan waktu yang cukup lama. Selain itu, Andi juga ingin memberikan pilihan kepada pelanggan yang tidak bisa langsung berbelanja di toko offlinenya tetap dapat berbelanja, sehingga sistem self-service cashier menjadi alternatif yang tepat.
 
-Solusi yang diberikan yaitu dengan membuat sistem self-service cashier yang mudah digunakan oleh pelanggan dan memudahkan proses pembayaran di toko offline. Pelanggan dapat memasukkan item yang dibeli, jumlah item yang dibeli, dan harga item yang dibeli melalui aplikasi atau mesin kasir yang disediakan. Dengan adanya sistem self-service cashier, pelanggan dapat memproses pembayaran dengan cepat dan tidak perlu menunggu lama di antrian pembayaran. Selain itu, sistem kasir self-service juga mempermudah pelanggan yang tidak dapat berbelanja langsung di toko offline.
+Solusi yang diberikan yaitu dengan membuat sistem self-service cashier yang mudah digunakan oleh pelanggan dan memudahkan proses pembayaran di toko offline. Pelanggan dapat memasukkan item yang dibeli, jumlah item yang dibeli, dan harga item yang dibeli melalui aplikasi atau mesin kasir yang disediakan. Dengan adanya sistem self-service cashier, pelanggan dapat memproses pembayaran dengan cepat dan tidak perlu menunggu lama di antrian pembayaran. Selain itu, sistem self-service cashier juga mempermudah pelanggan yang tidak dapat berbelanja langsung di toko offline.
 
 ## Requirements or Objective
 Pembuatan sistem self-service cashier yang dapat digunakan oleh pelanggan untuk melakukan pembelian barang secara mandiri di supermarket. Sistem ini harus dapat menerima input berupa nama item, jumlah item, dan harga item yang dibeli oleh pelanggan. Selain itu, sistem juga harus dapat menampilkan transaksi, menghitung total harga, dan memverifikasi apakah pemesanan sudah benar.
 - Membuat proses `tambah item` barang yang ingin dibeli.
-- Membuat proses `hapus item` barang barang yang ingin dibeli.
-- Membuat proses `edit nama item` barang barang yang ingin dibeli.
-- Membuat proses `edit jumlah item` barang barang yang ingin dibeli. 
-- Membuat proses `edit harga item` barang barang yang ingin dibeli.
-- Membuat proses `hitung total harga item` barang barang yang ingin dibeli.
-- Membuat proses `hitung diskon item` barang barang yang ingin dibeli.
+- Membuat proses `hapus item` barang yang ingin dibeli.
+- Membuat proses `edit nama item` barang yang ingin dibeli.
+- Membuat proses `edit jumlah item` barang yang ingin dibeli. 
+- Membuat proses `edit harga item` barang yang ingin dibeli.
+- Membuat proses `hitung total harga item` barang yang ingin dibeli.
+- Membuat proses `hitung diskon item` barang yang ingin dibeli.
 - Membuat proses `kosongkan barang` barang yang ingin dibeli.
 - Mengecek barang yang ingin dibeli dengan `menampilkan seluruh barang`.
 
